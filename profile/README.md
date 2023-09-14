@@ -8,3 +8,8 @@ Why I moved away from GitHub, and why you should do so too:
 - GitHub has a lot of paywalled features and is too bloated in my opinion
 - Hosting your code on GitHub's servers bears the risk of them just removing it one day; I like to have my stuff on my own servers
 - [Even more reasons from the Software Freedom Conservancy](https://sfconservancy.org/GiveUpGitHub)
+<hr />
+
+Projects under the _kimendisch_ organization:
+- **SBGG.jetzt**: [https://sbgg.jetzt](https://sbgg.jetzt) ([Source Code](https://git.tjdev.de/kimendisch/selbstbestimmungsgesetz-jetzt-de))
+- **KimEndisch.de**: [https://kimendisch.de](https://kimendisch.de)
